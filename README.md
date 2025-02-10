@@ -42,16 +42,17 @@ Some key columns:
    ```bash
    git clone https://github.com/yourusername/loan-default-prediction.git
 
-## Navigate to the project folder:
-'''bash
- cd loan-default-prediction
+## 🚀 How to Run the Notebook
 
-## Install dependencies:
-'''bash
+```bash
+# Navigate to the project folder
+cd loan-default-prediction
+
+# Install dependencies
 pip install pandas numpy scikit-learn
 
-## Open Jupyter Notebook and run:
-'''bash
+# Open Jupyter Notebook
 jupyter notebook
 
-##Run all cells in Untitled.ipynb
+# Run all cells in Untitled.ipynb
+
