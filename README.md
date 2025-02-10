@@ -40,7 +40,7 @@ Some key columns:
 ## 🚀 How to Run the Notebook
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/loan-default-prediction.git
+   git clone https://github.com/ridhin006/Support_Vector_Machine
 
 ## 🚀 How to Run the Notebook
 
