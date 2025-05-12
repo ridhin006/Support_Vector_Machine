@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook that analyzes a loan default dataset
 
 ## 📜 Dataset
 The dataset **Loan_default.csv** contains customer details and loan-related features.  
-Some key columns:
+Some key columns
 - **Education** → Highest education level of the applicant  
 - **EmploymentType** → Type of employment (Salaried/Self-employed)  
 - **MaritalStatus** → Married or single  
